@@ -25,3 +25,6 @@ name = input('Digite seu nome: ')
 sobrenome = input('Digite seu sobrenome: ')
 
 print((name + ' ' + sobrenome).title())
+
+
+# rondinelli
